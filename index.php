@@ -60,7 +60,8 @@
         <table>
           <tr>
         <td><h4 class="text-white"> Cefi Amidin M | </h4></td>
-        <td><h4 class="text-white"> 10116220  </h4></td>
+        <td><h4 class="text-white"> 10116220  | </h4></td>
+        <td><a href="http://tugas1-master.herokuapp.com/" h4 class="text-white"> Kembali ke master  </a></h4></td>
       </tr>
               </div>
 			  </center>
