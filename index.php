@@ -70,12 +70,12 @@
         </div>
       </div>
     </section>
-    <script src="three.r92.min.js"></script>
-    <script src="vanta.rings.min.js"></script>
+    <script src="js/three.r92.min.js"></script>
+    <script src="js/vanta.rings.min.js"></script>
     <script>
-    VANTA.RINGS({
-      el: "#your-element-selector"
-    })
+        VANTA.RINGS({
+            el: "#inirings"
+        })
     </script>
   </body>
 </html>
