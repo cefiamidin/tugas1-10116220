@@ -45,7 +45,7 @@
     </header>
 
     <!-- HOME -->
-    <section class="home-section section-hero overlay bg-image" color="black">
+    <section class="home-section section-hero overlay bg-image" id="ininet">
 
 
 
